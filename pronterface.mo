@@ -267,7 +267,7 @@ msgstr ""
 #: printrun/pronterface.py:1091 printrun/pronterface.py:1172
 #: printrun/pronterface.py:1364
 msgid "Pause"
-msgstr ""
+msgst ""
 
 #: printrun/gui/toolbar.py:85
 msgid "Turn printer off"
